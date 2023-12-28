@@ -1,5 +1,5 @@
 # APSSpokenDigits
-Project: Recognizing Spoken Arabic Digits (Applied Probability for Statistical Learning)
+Project: Recognizing Spoken Arabic Digits 
 
 Using signal statistical methods, including Mel-frequency cepstral coefficients, K-Means, and Gaussian Mixture Models to recognize spoken arabic digits. 
 
