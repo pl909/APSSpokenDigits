@@ -9,4 +9,4 @@ Please see GMMPredictTime.py and confusionmatrixTimeGMM.png (time-aware gaussian
 
 Credits to https://archive.ics.uci.edu/dataset/195/spoken+arabic+digit for dataset.
 
-Detailed description in progress.
+More detailed description in progress.
