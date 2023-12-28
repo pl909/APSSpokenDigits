@@ -6,3 +6,5 @@ Using signal statistical methods, including Mel-frequency cepstral coefficients,
 Please see GMMPredictTime.py and confusionmatrixTimeGMM.png (time-aware gaussian mixture modeling classification) for the training and testing procedure+results with highest accuracy.
 
 Credits to https://archive.ics.uci.edu/dataset/195/spoken+arabic+digit for dataset.
+
+Detailed description in progress.
